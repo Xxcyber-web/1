@@ -1,0 +1,5 @@
+username,password,expected
+alice,pass123,True
+bob,hello456,True
+alice,wrongpass,False
+unknown,pass123,False
